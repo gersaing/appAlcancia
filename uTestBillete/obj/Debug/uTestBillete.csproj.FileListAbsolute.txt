@@ -1,0 +1,9 @@
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\bin\Debug\uTestBillete.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\bin\Debug\uTestBillete.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\bin\Debug\libAlcancia.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\bin\Debug\libAlcancia.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\obj\Debug\uTestBillete.csprojResolveAssemblyReference.cache
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\obj\Debug\uTestBillete.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestBillete\obj\Debug\uTestBillete.pdb

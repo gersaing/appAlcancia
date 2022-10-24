@@ -1,0 +1,7 @@
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libAlcancia\bin\Debug\libAlcancia.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libAlcancia\bin\Debug\libAlcancia.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libAlcancia\obj\Debug\libAlcancia.csprojResolveAssemblyReference.cache
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libAlcancia\obj\Debug\libAlcancia.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libAlcancia\obj\Debug\libAlcancia.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libAlcancia\bin\Debug\libServicios.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libAlcancia\bin\Debug\libServicios.pdb

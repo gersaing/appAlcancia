@@ -1,0 +1,11 @@
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\bin\Debug\uTestAlcancia.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\bin\Debug\uTestAlcancia.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\bin\Debug\libAlcancia.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\bin\Debug\libAlcancia.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\obj\Debug\uTestAlcancia.csprojResolveAssemblyReference.cache
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\obj\Debug\uTestAlcancia.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\obj\Debug\uTestAlcancia.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\bin\Debug\libServicios.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestAlcancia\bin\Debug\libServicios.pdb

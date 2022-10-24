@@ -1,0 +1,5 @@
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libServicios\bin\Debug\libServicios.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libServicios\bin\Debug\libServicios.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libServicios\obj\Debug\libServicios.csprojResolveAssemblyReference.cache
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libServicios\obj\Debug\libServicios.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\libServicios\obj\Debug\libServicios.pdb

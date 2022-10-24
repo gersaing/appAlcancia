@@ -1,0 +1,9 @@
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\bin\Debug\uTestMoneda.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\bin\Debug\uTestMoneda.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\bin\Debug\libAlcancia.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\bin\Debug\libAlcancia.pdb
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\obj\Debug\uTestMoneda.csprojResolveAssemblyReference.cache
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\obj\Debug\uTestMoneda.dll
+E:\inge sistemas\SEMESTRE 6\Laboratorio Ingenieria de Software II\appAlcancia\uTestMoneda\obj\Debug\uTestMoneda.pdb

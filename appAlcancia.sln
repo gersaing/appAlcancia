@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libAlcancia", "libAlcancia\libAlcancia.csproj", "{6BF51595-5513-4D8B-8CA2-DB25DD42E59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uTestAlcancia", "uTestAlcancia\uTestAlcancia.csproj", "{A9E1349A-1BFB-4E98-9B43-CAC120EE7A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libServicios", "libServicios\libServicios.csproj", "{755870BC-E287-4A53-9471-97C8424B0DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF51595-5513-4D8B-8CA2-DB25DD42E59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF51595-5513-4D8B-8CA2-DB25DD42E59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF51595-5513-4D8B-8CA2-DB25DD42E59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF51595-5513-4D8B-8CA2-DB25DD42E59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E1349A-1BFB-4E98-9B43-CAC120EE7A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E1349A-1BFB-4E98-9B43-CAC120EE7A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E1349A-1BFB-4E98-9B43-CAC120EE7A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E1349A-1BFB-4E98-9B43-CAC120EE7A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755870BC-E287-4A53-9471-97C8424B0DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755870BC-E287-4A53-9471-97C8424B0DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755870BC-E287-4A53-9471-97C8424B0DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755870BC-E287-4A53-9471-97C8424B0DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
